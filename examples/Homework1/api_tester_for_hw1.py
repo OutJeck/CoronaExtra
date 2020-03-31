@@ -7,7 +7,7 @@ def main():
     Returns dict with information about COVID-19 from over the world.
     All to have another information such as history or countries you should
     change the url to
-    https://covid-193.p.rapidapi.com/statistics \n or to
+    https://covid-193.p.rapidapi.com/history \n or to
     https://covid-193.p.rapidapi.com/countries
 
     """
